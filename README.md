@@ -1,4 +1,4 @@
-### Bem vinda(o) e muito prazer me chamo Pedro Daniel 😄🤝
+### Bem vinda(o) e muito prazer me chamo Pedro Daniel😄🤝
  
  - 📚 Cursando Análise e desenvolvimento de sistemas(FAPESQ/UEPB)
  - 🌱 Estudando Python, Java, C++ e WEB
